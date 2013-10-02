@@ -6,11 +6,6 @@
   <name>JUnitTestSchreiben</name>
     <dependencies>
   	<dependency>
-  		<groupId>org.slf4j</groupId>
-  		<artifactId>slf4j-api</artifactId>
-  		<version>1.7.5</version>
-  	</dependency>
-  	<dependency>
   		<groupId>org.jmock</groupId>
   		<artifactId>jmock-junit4</artifactId>
   		<version>2.4.0</version>
